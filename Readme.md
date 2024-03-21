@@ -7,7 +7,7 @@ I completed this in one and half hour then started writing readme
 
 ## My Reasons for Fragmentating it like that
 
-- It has a mix of states and hooks(functions) which are related to different elements. so, I thought to fragment it based on this functions.
+- It has a mix of states and hooks(functions) which are related to different elements. so, I thought to fragment it based on these functions.
 
 -  I divided it into 5 components and one main(root) page based on states related to the component.
 
